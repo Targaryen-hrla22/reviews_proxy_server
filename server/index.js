@@ -6,7 +6,7 @@ const cors = require('cors');
 const server = express();
 const PORT = 5555;
 const corsOptions = {
-  origin: "https://amazonaws.com",
+  origin: "https://amazonaws.com", 
   optionsSuccessStatus: 200
 }
 
